@@ -1,0 +1,39 @@
+div{text-align: center;}
+
+h1{
+    color: white;
+    font-weight: 500em;
+    font-style: normal;
+    font-size: 50px;
+
+}
+button{
+    height: 6em;
+    width: 7em;
+    color: white;
+    font-size: 2em;
+
+}
+body{
+    background:url("img/SvWWN.png")no-repeat;
+    background-size: 2500px 1000px;
+
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+
+.start{
+   background-color: rgba(0, 139, 0, 0.849);
+   
+}
+
+.pause{
+    background-color: rgba(13, 13, 160, 0.836);
+}
+
+.stop{
+    background-color: red;
+}
